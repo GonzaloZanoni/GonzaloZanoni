@@ -1,5 +1,5 @@
 ### Hola Soy Gonzalo Zanoni 👋 
-Soy un desarrollador frontend Junior con un año de experiencia. De Villa del Rosario-Córdoba (Argentina). Me gusta crear aplicaciones web con React - (https://es.react.dev/) / Vue (https://vuejs.org/) 
+Soy un desarrollador frontend Junior con 1 año de experiencia. De Villa del Rosario-Córdoba (Argentina). Me gusta crear aplicaciones web con React - (https://es.react.dev/) / Vue (https://vuejs.org/) 
 
 - 🔭 Actualmente estoy trabajando en: Institución Educativa como Docente.
 - 🌱 Actualmente estoy aprendiendo: mejorando habilidades con el stack MERN. 
