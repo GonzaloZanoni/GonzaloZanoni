@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hola Soy Gonzalo Zanoni 👋 
+Soy un desarrollador frontend Junior con un año de experiencia. De Villa del Rosario-Córdoba (Argentina). Me gusta crear aplicaciones web con React - (https://es.react.dev/) / Vue (https://vuejs.org/) 
 
-<!--
-**GonzaloZanoni/GonzaloZanoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Actualmente estoy trabajando en: Institución Educativa como Docente.
+- 🌱 Actualmente estoy aprendiendo: mejorando habilidades con el stack MERN. 
+- 📫 Cómo contactarme: dev.gonzalozanoni@gmail.com
+- ⚡ Dato curioso: Además soy Músico, Docente y estoy en un proyecto músical.
 
-Here are some ideas to get you started:
+  ### Próximamente publicaré un proyecto web, orientado al crecimiento de pequeños emprendimientos o servicios de personas independientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Me puedes encontrar en:
+Linkedin: https://www.linkedin.com/in/gonzalo-zanoni-324b6120b/
+Instagram: https://www.instagram.com/gonzalozanoni/
+  
+
